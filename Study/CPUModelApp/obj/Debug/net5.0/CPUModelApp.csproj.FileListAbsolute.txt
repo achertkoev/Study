@@ -1,0 +1,16 @@
+C:\Development\Learning\CPUModel\CPUModelApp\bin\Debug\net5.0\CPUModelApp.exe
+C:\Development\Learning\CPUModel\CPUModelApp\bin\Debug\net5.0\CPUModelApp.deps.json
+C:\Development\Learning\CPUModel\CPUModelApp\bin\Debug\net5.0\CPUModelApp.runtimeconfig.json
+C:\Development\Learning\CPUModel\CPUModelApp\bin\Debug\net5.0\CPUModelApp.runtimeconfig.dev.json
+C:\Development\Learning\CPUModel\CPUModelApp\bin\Debug\net5.0\CPUModelApp.dll
+C:\Development\Learning\CPUModel\CPUModelApp\bin\Debug\net5.0\ref\CPUModelApp.dll
+C:\Development\Learning\CPUModel\CPUModelApp\bin\Debug\net5.0\CPUModelApp.pdb
+C:\Development\Learning\CPUModel\CPUModelApp\obj\Debug\net5.0\CPUModelApp.csproj.AssemblyReference.cache
+C:\Development\Learning\CPUModel\CPUModelApp\obj\Debug\net5.0\CPUModelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Learning\CPUModel\CPUModelApp\obj\Debug\net5.0\CPUModelApp.AssemblyInfoInputs.cache
+C:\Development\Learning\CPUModel\CPUModelApp\obj\Debug\net5.0\CPUModelApp.AssemblyInfo.cs
+C:\Development\Learning\CPUModel\CPUModelApp\obj\Debug\net5.0\CPUModelApp.csproj.CoreCompileInputs.cache
+C:\Development\Learning\CPUModel\CPUModelApp\obj\Debug\net5.0\CPUModelApp.dll
+C:\Development\Learning\CPUModel\CPUModelApp\obj\Debug\net5.0\ref\CPUModelApp.dll
+C:\Development\Learning\CPUModel\CPUModelApp\obj\Debug\net5.0\CPUModelApp.pdb
+C:\Development\Learning\CPUModel\CPUModelApp\obj\Debug\net5.0\CPUModelApp.genruntimeconfig.cache
