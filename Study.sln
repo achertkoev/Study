@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectsInMemory", "ObjectsI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI", "DI\DI\DI.csproj", "{20CBBA0C-701D-4F4F-9BD5-CC5990B06C5E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPatterns", "{380D29A4-CCED-4C01-880F-E6C683EFE519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Span", "Span\Span.csproj", "{8706C071-A2BF-4423-AE77-42C1F6063C12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,10 @@ Global
 		{20CBBA0C-701D-4F4F-9BD5-CC5990B06C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20CBBA0C-701D-4F4F-9BD5-CC5990B06C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20CBBA0C-701D-4F4F-9BD5-CC5990B06C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8706C071-A2BF-4423-AE77-42C1F6063C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8706C071-A2BF-4423-AE77-42C1F6063C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8706C071-A2BF-4423-AE77-42C1F6063C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8706C071-A2BF-4423-AE77-42C1F6063C12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
