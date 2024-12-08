@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectsInMemory", "ObjectsI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI", "DI\DI\DI.csproj", "{20CBBA0C-701D-4F4F-9BD5-CC5990B06C5E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPatterns", "{380D29A4-CCED-4C01-880F-E6C683EFE519}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Span", "Span\Span.csproj", "{8706C071-A2BF-4423-AE77-42C1F6063C12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExploringDesignPatterns", "ExploringDesignPatterns\ExploringDesignPatterns.csproj", "{B2206DAE-05D3-49DA-B696-6B83386EE316}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,11 +35,17 @@ Global
 		{8706C071-A2BF-4423-AE77-42C1F6063C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8706C071-A2BF-4423-AE77-42C1F6063C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8706C071-A2BF-4423-AE77-42C1F6063C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2206DAE-05D3-49DA-B696-6B83386EE316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2206DAE-05D3-49DA-B696-6B83386EE316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2206DAE-05D3-49DA-B696-6B83386EE316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2206DAE-05D3-49DA-B696-6B83386EE316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BE3C9045-9187-4FB1-BC35-4BD24498F04F}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal
